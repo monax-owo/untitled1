@@ -1,0 +1,4 @@
+
+
+https://github.com/monaka/untitled1
+main,CLASS,org.example.monax.untitled1.Untitled1,net.fabricmc.api.ModInitializer;client,CLASS,org.example.monax.untitled1.client.Untitled1Client,net.fabricmc.api.ClientModInitializer

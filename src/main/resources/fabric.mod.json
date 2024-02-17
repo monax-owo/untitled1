@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "untitled1",
+  "version": "${version}",
+
+  "name": "untitled1",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/untitled1/icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
